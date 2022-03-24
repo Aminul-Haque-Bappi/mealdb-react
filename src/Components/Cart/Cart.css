@@ -1,0 +1,6 @@
+.cart-container {
+  text-align: center;
+  background-color: orange;
+  position: sticky;
+  width: 300px;
+}

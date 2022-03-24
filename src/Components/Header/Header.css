@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.header-container {
+  height: 80px;
+  background-color: #ddd;
+}
+.header-container h1 {
+  text-align: left;
+  padding: 15px 100px;
+  color: orangered;
+}
